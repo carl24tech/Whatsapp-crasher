@@ -25,7 +25,7 @@ pkg install python git -y
 pip install colorama
 ```
 ```bash
-git clone https://github.com/BonitoMinati/whatsapp-crasher
+git clone https://github.com/carl24tech/whatsapp-crasher
 ```
 ```bash
 cd whatsapp-crasher
