@@ -17,9 +17,9 @@ except ModuleNotFoundError:
 	os.system("pip install colorama")
 
 logo = f"""
-{M}ⒸⒶⓇⓁⓉⒺⒸⒽ  
-{R}ℂℝ𝔸𝕊ℍ𝔼ℝ {G}Coded By Carl24tech
-{M}𝓗𝓐𝓒𝓚𝓔𝓡 {G}Carl
+{M} ⒸⒶⓇⓁⓉⒺⒸⒽ  
+{R} ℂℝ𝔸𝕊ℍ𝔼ℝ {G} Coded By Carl24tech
+{M} 𝓗𝓐𝓒𝓚𝓔𝓡 {G} Carl
 """
 os.system('clear')
 def main():
