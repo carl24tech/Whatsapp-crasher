@@ -7,12 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.5-lime?style=for-the-badge">
   
-  <img src="https://img.shields.io/github/stars/github.com/Whatsapp-crasher?color=cyan&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/carl24tech/Whatsapp-crasher?color=magenta&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/carl24tech/Whatsapp-crasher?color=aquamarine&style=for-the-badge"><br/>
-
-</p>
-
 
 
 ## Installing :
